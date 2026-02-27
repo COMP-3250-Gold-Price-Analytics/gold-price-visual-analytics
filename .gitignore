@@ -1,3 +1,30 @@
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Power BI / Data Analytics Specific
+# Ignore large raw data files (best practice to keep raw data out of GitHub)
+*.csv
+*.xlsx
+*.zip
+# Keep cleaned data if necessary, or keep everything in /data/ ignored:
+# data/
+
+# Power BI Temporary files
+*.pbix.m_p_cache
+*.pbit
+*.pbi
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
