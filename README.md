@@ -3,6 +3,9 @@
 **Professor:** Dr. Andreas S. Maniatis  
 **Institution:** University of Windsor
 
+## 📢 Project Status Update
+**[View Live Project Status Report](https://comp-3250-gold-price-analytics.github.io/gold-price-visual-analytics/Project%20Status%20Report/Project%20Status%20Report.html)** *This report provides a real-time overview of our technical progress, completed Hive milestones, and upcoming development phases.*
+
 ## 👥 Team Members
 * **Aakanksha Mandal** (Project Coordinator & Technical Lead)
 * **Abhishek Chaparala** (Project Organization Support)
